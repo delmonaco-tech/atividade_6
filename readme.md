@@ -1,1 +1,1 @@
-# Atividade 6 - base
+Este texto foi escrito no TERMINAL 1
